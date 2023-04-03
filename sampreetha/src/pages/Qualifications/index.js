@@ -35,7 +35,7 @@ export default function Qualifications() {
       <Divider variant="inset" component="li" />
       <ListItem alignItems="flex-start">
         <ListItemAvatar>
-          <Avatar alt="SR junior college" src="https://www.w3schools.com/howto/img_avatar.png" />
+          <Avatar alt="SR junior college" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQITswYcpPMn7iJ83mlamGsqNiUj1DrCNQJoQ&usqp=CAU" />
         </ListItemAvatar>
         <ListItemText
           primary="SR junior college"
